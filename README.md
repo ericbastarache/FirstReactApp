@@ -1,7 +1,7 @@
 # FirstReactApp
 React Battle application built from online react training course
 
-#To Run the app
+# To Run the app
 
 1. Clone the repository
 2. Open terminal/command prompt and cd into the project
